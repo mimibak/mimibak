@@ -1,12 +1,6 @@
 # Hey you, nice to meet you here 🤟     
 >You'd like to get to know me?
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Hey, you!" src="LINK EINFÜGEN">
-</picture>
-
 <br></br>
 ### About Me
 
