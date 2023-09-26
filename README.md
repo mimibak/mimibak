@@ -1,7 +1,14 @@
-# 📌 Hey you, nice to meet you here 🤟!
->You'd like to get to know me? 
+# Hey you, nice to meet you here 🤟     
+>You'd like to get to know me?
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="Hey, you!" src="LINK EINFÜGEN">
+</picture>
+
 <br></br>
-### 📌 About Me:
+### About Me
 
 - 👩‍🎓 currently participating at **_Coding_** **_Bootcamps_** **_Europe_** to evolve to be an awesome web developer in future.
 - ⭕ currently learning how to use and work with **Github**.
