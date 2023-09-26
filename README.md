@@ -1,14 +1,12 @@
 # 📌 Hey you, nice to meet you here 🤟!
 >You'd like to get to know me? 
-
-
-
+<br></br>
 ### 📌 About Me:
 
 - 👩‍🎓 currently participating at **_Coding_** **_Bootcamps_** **_Europe_** to evolve to be an awesome web developer in future.
 - ⭕ currently learning how to use and work with **Github**.
 - ⭕ much more will come, i'll keep you updated on my process.
-
+<br></br>
 - 🎨 studied communicationdesign, with the main focus on Multimedia, UI/UX Design.
 - 🖌 besides that you can meet me as a tattooartist, meet me [here](https://www.instagram.com/mimi.tatts/).
 
