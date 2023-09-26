@@ -1,6 +1,5 @@
 # Hey you, nice to meet you here 🤟     
 >You'd like to get to know me?
-
 <br></br>
 ### About Me
 
