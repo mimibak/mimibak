@@ -38,7 +38,13 @@ Looking forward to talk and share thoughts with you!
 
 
 
+<!--
+Sources to create this readme: 
 
+Stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
+Icons: https://devicon.dev/
+Thanks to the knowledge I gained through: https://github.com/coding-bootcamps-eu
+-->
 
 <!--
 **mimibak/mimibak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
