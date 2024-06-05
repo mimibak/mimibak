@@ -21,20 +21,14 @@ Looking forward to talk and share thoughts with you!
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
----
+----
 <br />
-<br />
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mimibak&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mimibak&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mimibak&show_icons=true" />
-</picture>
+
+
+![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimibak&show_icons=true&theme=gotham) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimibak&theme=gotham&border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 
