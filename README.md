@@ -23,5 +23,6 @@ Looking forward to talk and share thoughts with you!
 
 ----
 <br />
+
 ![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimibak&show_icons=true&theme=dark) 
 
