@@ -22,5 +22,6 @@ Looking forward to talk and share thoughts with you!
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 ----
-
+<br />
+![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimibak&show_icons=true&theme=dark) 
 
