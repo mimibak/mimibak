@@ -22,35 +22,5 @@ Looking forward to talk and share thoughts with you!
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 ----
-<br />
 
 
-![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimibak&show_icons=true&theme=gotham) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimibak&theme=gotham&border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-
-<!--
-Sources to create this readme: 
-
-Stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
-Icons: https://devicon.dev/
-Thanks to the knowledge I gained through: https://github.com/coding-bootcamps-eu
--->
-
-<!--
-**mimibak/mimibak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
